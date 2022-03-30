@@ -14,8 +14,6 @@
 </div>
   
 ## 💪Skills
-  
-
   ### Front-end
   <img align="center" alt="Suganame-HTML" title="HTML 5" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Suganame-CSS" title="CSS 3" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
@@ -52,6 +50,7 @@
   <img align="center" alt="Suganame-VsCode" title="Visual Studio Code" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg">
   <img align="center" alt="Suganame-Electron" title="Electron" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/electron/electron-original.svg">
   
+  <br>
   <br>
   
   ## ✉️ Contacte-me
