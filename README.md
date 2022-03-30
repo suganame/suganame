@@ -3,7 +3,7 @@
 - 🔭 Atualmente sou FullStack Pleno trabalhando com ReacJS e NodeJS
 - 🌱 Estudando Inglês, Flutter, TDD, Clean Code, SOLID e Injeção de Dependências
 - 📚 Codigo Limpo: Habilidades práticas do Agile Software
-- 🔨 Busco confeccionar meu código da forma mais limpam, clara e objetiva possível
+- 🔨 Busco confeccionar meu código da forma mais limpa, clara e objetiva possível
 - 🐈 Amante de animais 🐕
 - 🎮 League of Legends | Ark: Survival Envolved | Finding Paradise
 
