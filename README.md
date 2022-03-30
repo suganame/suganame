@@ -1,7 +1,4 @@
 ### Olá 🖐️ Sou Guilherme Suganame! Entusiasta em novas tecnologias 🤓 
-<!-- ##### Amante de animais 🐈🐕 e de viagens ✈️.  -->
-<!-- ##### Busco confeccionar meu código da forma mais limpa, clara e objetiva possível, aplicando conceitos de Clean Code e SOLID -->
-
 <br>
 
 - 🔭 Atualmente sou FullStack Pleno trabalhando com ReacJS e NodeJS
@@ -65,5 +62,5 @@
    <a href="https://www.linkedin.com/in/guisuganame"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
   <a href = "mailto:gsuganame@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
    
-   ![Snake animation](https://github.com/suganame/suganame/blob/output/github-contribution-grid-snake.svg)
+<!--    ![Snake animation](https://github.com/suganame/suganame/blob/output/github-contribution-grid-snake.svg) -->
   
