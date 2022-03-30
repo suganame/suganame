@@ -6,12 +6,13 @@ on:
   workflow_dispatch:
 
 jobs:
-  build:
-    name: Jobs to update datas
+  generate:
     runs-on: ubuntu-latest
+    timeout-minutes: 10
+    
     steps:
       # Snake Animation
-      - uses: Platane/snk@master
+      - uses: Platane/snk/svg-only@v1.1.2
         id: snake-gif
         with:
           github_user_name: suganame
