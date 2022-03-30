@@ -1,4 +1,4 @@
-### Olá 🖐️ Sou Guilherme Suganame!
+### Olá 🖐️ Sou Guilherme Suganame! ☕
 
 - 🔭 Atualmente sou FullStack Pleno trabalhando com Reacjs e Nodejs
 - 🌱 Estudando Inglês, Flutter, TDD, Clean Code, SOLID e Injeção de Dependências
