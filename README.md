@@ -1,8 +1,14 @@
-### Olá 🖐️ Sou Guilherme Suganame! ☕
+### Olá 🖐️ Sou Guilherme Suganame! Entusiasta em novas tecnologias 🤓 
+<!-- ##### Amante de animais 🐈🐕 e de viagens ✈️.  -->
+<!-- ##### Busco confeccionar meu código da forma mais limpa, clara e objetiva possível, aplicando conceitos de Clean Code e SOLID -->
 
-- 🔭 Atualmente sou FullStack Pleno trabalhando com Reacjs e Nodejs
+<br>
+
+- 🔭 Atualmente sou FullStack Pleno trabalhando com ReacJS e NodeJS
 - 🌱 Estudando Inglês, Flutter, TDD, Clean Code, SOLID e Injeção de Dependências
 - 📚 Codigo Limpo: Habilidades práticas do Agile Software
+- 🔨 Busco confeccionar meu código da forma mais limpam, clara e objetiva possível
+- 🐈 Amante de animais 🐕
 - 🎮 League of Legends | Ark: Survival Envolved | Finding Paradise
 
 <br>
