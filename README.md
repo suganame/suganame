@@ -4,6 +4,7 @@
 - 🌱 Estudando Inglês, Flutter, TDD, Clean Code, SOLID e Injeção de Dependências
 - 📚 Codigo Limpo: Habilidades práticas do Agile Software
 - 🔨 Busco confeccionar meu código da forma mais limpa, clara e objetiva possível
+- 🧐 Procurando o aprendizado não aprendido
 - 🐈 Amante de animais 🐕
 - 🎮 League of Legends | Ark: Survival Envolved | Finding Paradise
 
