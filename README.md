@@ -1,5 +1,7 @@
 ### Olá 🖐️ Sou Guilherme Suganame! Amante de novas tecnologias 🤓 
 
+- 🎓 Formado em Analise e Desenvolvimento de Sistemas em 2017
+- 👨‍💻 Programando desde 2010
 - 🔭 Atualmente sou FullStack Pleno trabalhando com ReacJS e NodeJS
 - 🌱 Estudando Inglês, Flutter, TDD, Clean Code, SOLID e Injeção de Dependências
 - 📚 Codigo Limpo: Habilidades práticas do Agile Software
@@ -53,6 +55,8 @@
   <img align="center" alt="Suganame-VsCode" title="Visual Studio Code" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg">
   <img align="center" alt="Suganame-Electron" title="Electron" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/electron/electron-original.svg">
   <img align="center" alt="Suganame-Trello" title="Trello" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/trello/trello-plain.svg">
+  <img align="center" alt="Suganame-Jira" title="Jira" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original.svg">
+  <img align="center" alt="Suganame-Confluence" title="Confluence" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/confluence/confluence-original.svg">
   
   <br>
   <br>
