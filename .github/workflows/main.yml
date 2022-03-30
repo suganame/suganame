@@ -4,6 +4,11 @@ on:
   schedule: # execute every 12 hours
     - cron: "* */6 * * *"
   workflow_dispatch:
+  
+  push:
+    branches:
+    - master
+    - develop
 
 jobs:
   generate:
