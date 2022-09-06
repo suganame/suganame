@@ -3,12 +3,12 @@
 - 🎓 Formado em Analise e Desenvolvimento de Sistemas em 2017
 - 👨‍💻 Programando desde 2010
 - 🔭 Atualmente sou FullStack Pleno trabalhando com ReactJS e NodeJS
-- 🌱 Estudando Inglês, Flutter, TDD, Clean Code, SOLID e Injeção de Dependências
-- 📚 Codigo Limpo: Habilidades práticas do Agile Software
+- 🌱 Estudando Inglês, TDD, Clean Code, SOLID e Clean Architecture
+- 📚 Codigo Limpo: Habilidades práticas do Agile Software, Arquitetura limpa: O guia do artesão para estrutura e design de software
 - 🔨 Busco confeccionar meu código da forma mais limpa, clara e objetiva possível
 - 🧐 Procurando o aprendizado não aprendido
 - 🐈 Amante de animais 🐕
-- 🎮 League of Legends | Ark: Survival Envolved | Finding Paradise
+- 🎮 League of Legends | CupHead
 
 <br>
 
