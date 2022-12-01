@@ -8,7 +8,6 @@
 - 🔨 Busco confeccionar meu código da forma mais limpa, clara e objetiva possível
 - 🧐 Procurando o aprendizado não aprendido
 - 🐈 Amante de animais 🐕
-- 🎮 League of Legends | CupHead
 
 <br>
 
