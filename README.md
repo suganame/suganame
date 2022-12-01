@@ -2,7 +2,7 @@
 
 - 🎓 Formado em Analise e Desenvolvimento de Sistemas em 2017
 - 👨‍💻 Programando desde 2010
-- 🔭 Atualmente sou FullStack Pleno trabalhando com ReactJS e NodeJS
+- 🔭 Atualmente sou Desenvolvedor Pleno trabalhando com NodeJS
 - 🌱 Estudando Inglês, TDD, Clean Code, SOLID e Clean Architecture
 - 📚 Codigo Limpo: Habilidades práticas do Agile Software, Arquitetura limpa: O guia do artesão para estrutura e design de software
 - 🔨 Busco confeccionar meu código da forma mais limpa, clara e objetiva possível
