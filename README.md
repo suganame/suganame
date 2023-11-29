@@ -9,7 +9,7 @@
 - 🧐 Procurando o aprendizado não aprendido
 - 🐈 Amante de animais 🐕
 
-#### Veja meu <a href="https://suganame-curriculo.vercel.app" target="_blank">aqui</a> meu currículo online!
+#### Veja meu <a href="https://suganame-curriculo.vercel.app/?target=_blank">aqui</a> meu currículo online!
 
 <br>
 
